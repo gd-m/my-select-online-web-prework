@@ -11,7 +11,7 @@ def my_select(collection)
     end
      i=i+1
    end
-else 
+else
   "No block given"
  end
  new_collection
