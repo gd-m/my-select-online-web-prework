@@ -4,7 +4,7 @@ def my_select(collection)
    i=0
    new_collection = Array.new
    while i<collection.length
-     
+
     yield(collection[i])
     if collection[i] = num
       new_collection<<collection[i]
